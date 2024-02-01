@@ -18,5 +18,6 @@ we have
 ~~~
 spark("hi")
 ~~~
+spark isn't just making code easy. spark provides a simple way to do a (what should be) simple task.
   
   
