@@ -1,4 +1,4 @@
-# spark
+# spark 🚀
 ## What is spark?
 spark is an open source coding language designed to make coding an easier job. For example, instead of
 ### This    
